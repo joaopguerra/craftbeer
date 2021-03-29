@@ -1,0 +1,6 @@
+INSERT INTO tb_beer (name, ingredients, alcohol_Content, price, category) VALUES ('Java Lager', 'barley', '5%', 15.00, 'Lager')
+INSERT INTO tb_beer (name, ingredients, alcohol_Content, price, category) VALUES ('', 'barley', '6%', 17.80, 'Malt')
+INSERT INTO tb_beer (name, ingredients, alcohol_Content, price, category) VALUES ('', 'barley', '3.5%', 5.50, 'Flavoured Malt')
+INSERT INTO tb_beer (name, ingredients, alcohol_Content, price, category) VALUES ('', 'barley', '8%', 8.00, 'Lager')
+INSERT INTO tb_beer (name, ingredients, alcohol_Content, price, category) VALUES ('', 'barley', '6%', 8.50, 'Non-Alcoholic Beer')
+INSERT INTO tb_beer (name, ingredients, alcohol_Content, price, category) VALUES ('', 'barley', '5%', 25.50, 'Ale')
